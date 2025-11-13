@@ -1,6 +1,8 @@
 package translation
 
-import "strings"
+import (
+	"strings"
+)
 
 func Translate(word string, language string) string {
 	word = sanitizeInput(word)
