@@ -1,5 +1,19 @@
 # Hello API
 
+## Dependencies
+
+- Go version 1.21
+
+## Setup
+
+### Install Go
+
+`sudo make setup`
+
+### Upgrade Go
+
+`sudo make install-go`
+
 ## Release Milestones
 
 ### V0 (1 day)
